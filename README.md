@@ -1,6 +1,3 @@
-# Simon_memory_game
-
-
 # Simon Memory Game
 
 This is a simple memory game that challenges users to remember and repeat a sequence of randomly generated colors. The project is built using HTML, CSS, and JavaScript.
