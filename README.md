@@ -4,7 +4,7 @@ This is a simple memory game that challenges users to remember and repeat a sequ
 
 ## Demo
 
-You can try the application here : https://sweet-klepon-c2e047.netlify.app/
+You can try the application here : https://rememberrepeat.netlify.app/
 
 ## Usage
 
